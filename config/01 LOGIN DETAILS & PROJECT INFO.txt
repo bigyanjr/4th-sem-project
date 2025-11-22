@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: password
+
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
